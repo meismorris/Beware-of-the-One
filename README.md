@@ -1,2 +1,2 @@
-# Dice Roll Game
- 2 Player Dice Game
+# DiceGame
+ A simple dice games involving 2 players.
